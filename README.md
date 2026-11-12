@@ -107,8 +107,8 @@ A threshold adjustment from 0.50 to 0.30 was also explored to study the trade-of
 - Compare Logistic Regression with other classification algorithms.
 - Improve feature selection and feature engineering.
 - Perform cross-validation and hyperparameter tuning.
-- Evaluate ROC-AUC and PR-AUC.
-- Develop an interactive Power BI dashboard.
+- Evaluate ROC-AUC and PR-AUC
+- Develop an interactive Power BI dashboard
 
 ## Author
 
